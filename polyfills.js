@@ -7,7 +7,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-module.exports = __webpack_require__(/*! /home/alejoj/Documentos/ElectricalMarketLS/ElectricalMarketLSFrontEnd/src/polyfills.ts */"hN/g");
+module.exports = __webpack_require__(/*! D:\ElectricalMarketLS\ElectricalMarketLSFrontEnd\src\polyfills.ts */"hN/g");
 
 
 /***/ }),

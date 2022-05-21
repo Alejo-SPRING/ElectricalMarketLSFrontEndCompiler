@@ -7,9 +7,9 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/alejoj/Documentos/ElectricalMarketLS/ElectricalMarketLSFrontEnd/node_modules/bootstrap/dist/css/bootstrap.min.css */"q4sD");
-__webpack_require__(/*! /home/alejoj/Documentos/ElectricalMarketLS/ElectricalMarketLSFrontEnd/src/styles.css */"OmL/");
-module.exports = __webpack_require__(/*! /home/alejoj/Documentos/ElectricalMarketLS/ElectricalMarketLSFrontEnd/node_modules/@fortawesome/fontawesome-free/css/all.min.css */"vs8Z");
+__webpack_require__(/*! D:\ElectricalMarketLS\ElectricalMarketLSFrontEnd\node_modules\bootstrap\dist\css\bootstrap.min.css */"q4sD");
+__webpack_require__(/*! D:\ElectricalMarketLS\ElectricalMarketLSFrontEnd\src\styles.css */"OmL/");
+module.exports = __webpack_require__(/*! D:\ElectricalMarketLS\ElectricalMarketLSFrontEnd\node_modules\@fortawesome\fontawesome-free\css\all.min.css */"vs8Z");
 
 
 /***/ }),
@@ -465,7 +465,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
 // Module
-___CSS_LOADER_EXPORT___.push([module.i, "\n", "",{"version":3,"sources":[],"names":[],"mappings":"","sourceRoot":""}]);
+___CSS_LOADER_EXPORT___.push([module.i, "\r\n", "",{"version":3,"sources":[],"names":[],"mappings":"","sourceRoot":""}]);
 // Exports
 /* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
 
