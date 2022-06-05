@@ -69,6 +69,11 @@ class ProductService {
         this.endPointBaseType = _environments_environment_prod__WEBPACK_IMPORTED_MODULE_1__["environment"].backEndPoint + "/api/type";
         this.endPointBaseImage = _environments_environment_prod__WEBPACK_IMPORTED_MODULE_1__["environment"].backEndPoint + "/api/images";
     }
+    deleteImage(imageId) {
+        return this.http.delete(this.endPointBaseImage + "/delete/" + imageId).pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_0__["catchError"])(error => {
+            return Object(rxjs__WEBPACK_IMPORTED_MODULE_2__["throwError"])(error);
+        }));
+    }
     uploadImagesByProduct(formData, productId) {
         return this.http.post(this.endPointBaseImage + "/upload/" + productId, formData).pipe(Object(rxjs_operators__WEBPACK_IMPORTED_MODULE_0__["catchError"])(error => {
             return Object(rxjs__WEBPACK_IMPORTED_MODULE_2__["throwError"])(error);
