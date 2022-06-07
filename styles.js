@@ -7,9 +7,9 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/alejoj/Documentos/ElectricalMarketLS/ElectricalMarketLSFrontEnd/node_modules/bootstrap/dist/css/bootstrap.min.css */"q4sD");
-__webpack_require__(/*! /home/alejoj/Documentos/ElectricalMarketLS/ElectricalMarketLSFrontEnd/src/styles.css */"OmL/");
-module.exports = __webpack_require__(/*! /home/alejoj/Documentos/ElectricalMarketLS/ElectricalMarketLSFrontEnd/node_modules/@fortawesome/fontawesome-free/css/all.min.css */"vs8Z");
+__webpack_require__(/*! D:\ElectricalMarketLS\ElectricalMarketLSFrontEnd\node_modules\bootstrap\dist\css\bootstrap.min.css */"q4sD");
+__webpack_require__(/*! D:\ElectricalMarketLS\ElectricalMarketLSFrontEnd\src\styles.css */"OmL/");
+module.exports = __webpack_require__(/*! D:\ElectricalMarketLS\ElectricalMarketLSFrontEnd\node_modules\@fortawesome\fontawesome-free\css\all.min.css */"vs8Z");
 
 
 /***/ }),
@@ -465,7 +465,7 @@ __webpack_require__.r(__webpack_exports__);
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_0___default()(true);
 // Module
-___CSS_LOADER_EXPORT___.push([module.i, "body, .nav-link {\n    color: rgb(27, 34, 36)\n}\nh1, h3, h4, h5 {\n    color: rgb(44,112,222) !important\n}\n.active {\n    color: rgb(237, 149, 40) !important\n}\n.color1 {\n    color: rgb(27,34,36)\n}\n.color2 {\n    color: rgb(235, 248, 250)\n}\n.color3 {\n    color: rgb(237, 149, 40)\n}\n.color4 {\n    color: rgb(44, 112, 222)\n}", "",{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA;IACI;AACJ;AACA;IACI;AACJ;AAEA;IACI;AACJ;AAEA;IACI;AACJ;AACA;IACI;AACJ;AACA;IACI;AACJ;AACA;IACI;AACJ","sourcesContent":["body, .nav-link {\n    color: rgb(27, 34, 36)\n}\nh1, h3, h4, h5 {\n    color: rgb(44,112,222) !important\n}\n\n.active {\n    color: rgb(237, 149, 40) !important\n}\n\n.color1 {\n    color: rgb(27,34,36)\n}\n.color2 {\n    color: rgb(235, 248, 250)\n}\n.color3 {\n    color: rgb(237, 149, 40)\n}\n.color4 {\n    color: rgb(44, 112, 222)\n}"],"sourceRoot":""}]);
+___CSS_LOADER_EXPORT___.push([module.i, "body, .nav-link {\r\n    color: rgb(27, 34, 36)\r\n}\r\nh1, h3, h4, h5 {\r\n    color: rgb(44,112,222) !important\r\n}\r\n.active {\r\n    color: rgb(237, 149, 40) !important\r\n}\r\n.color1 {\r\n    color: rgb(27,34,36)\r\n}\r\n.color2 {\r\n    color: rgb(235, 248, 250)\r\n}\r\n.color3 {\r\n    color: rgb(237, 149, 40)\r\n}\r\n.color4 {\r\n    color: rgb(44, 112, 222)\r\n}", "",{"version":3,"sources":["webpack://src/styles.css"],"names":[],"mappings":"AAAA;IACI;AACJ;AACA;IACI;AACJ;AAEA;IACI;AACJ;AAEA;IACI;AACJ;AACA;IACI;AACJ;AACA;IACI;AACJ;AACA;IACI;AACJ","sourcesContent":["body, .nav-link {\r\n    color: rgb(27, 34, 36)\r\n}\r\nh1, h3, h4, h5 {\r\n    color: rgb(44,112,222) !important\r\n}\r\n\r\n.active {\r\n    color: rgb(237, 149, 40) !important\r\n}\r\n\r\n.color1 {\r\n    color: rgb(27,34,36)\r\n}\r\n.color2 {\r\n    color: rgb(235, 248, 250)\r\n}\r\n.color3 {\r\n    color: rgb(237, 149, 40)\r\n}\r\n.color4 {\r\n    color: rgb(44, 112, 222)\r\n}"],"sourceRoot":""}]);
 // Exports
 /* harmony default export */ __webpack_exports__["default"] = (___CSS_LOADER_EXPORT___);
 
